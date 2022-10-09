@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pce.uw.edu/getmedia/0d4f629b-c13a-4a13-8e78-8b0dd3f64e03/python-programming-2000x600.jpg;;.aspx;.html;.htm;.css;.pdf?width=&height=)](https://github.com/JMarts32)
 <h1 align="center">Hi 👋, I'm Juan Martin Santos Ayala</h1>
 <h3 align="center">A 3rd year computer engineering student from Colombia</h3>
-<img align="right" alt="coding" with="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" with="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarts32&label=Profile%20views&color=0e75b6&style=flat" alt="jmarts32" /> </p>
 
