@@ -1,14 +1,15 @@
 [![MasterHead](https://www.pce.uw.edu/getmedia/0d4f629b-c13a-4a13-8e78-8b0dd3f64e03/python-programming-2000x600.jpg;;.aspx;.html;.htm;.css;.pdf?width=&height=)](https://github.com/JMarts32)
 <h1 align="center">Hi 👋, I'm Juan Martin Santos Ayala</h1>
 <h3 align="center">A passionate frontend developeA 3rd year computer engineering student from Colombiar from India</h3>
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmarts32&label=Profile%20views&color=0e75b6&style=flat" alt="jmarts32" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/JMarts32" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Cloud Computing, Django, and Swift**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/JMarts32)
 
 - 📫 How to reach me **jm2002.santosa@gmail.com**
 
