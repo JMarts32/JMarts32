@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pce.uw.edu/getmedia/0d4f629b-c13a-4a13-8e78-8b0dd3f64e03/python-programming-2000x600.jpg;;.aspx;.html;.htm;.css;.pdf?
+[![MasterHead](https://www.pce.uw.edu/getmedia/0d4f629b-c13a-4a13-8e78-8b0dd3f64e03/python-programming-2000x600.jpg;;.aspx;.html;.htm;.css;.pdf?width=&height=)](https://github.com/JMarts32)
 <h1 align="center">Hi 👋, I'm Juan Martin Santos Ayala</h1>
 <h3 align="center">A passionate frontend developeA 3rd year computer engineering student from Colombiar from India</h3>
 
