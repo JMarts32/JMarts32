@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/JMarts32" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing with AWS and Swift**
+- 🌱 I’m currently learning **Cloud Computing with AWS and flutter**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/JMarts32)
 
